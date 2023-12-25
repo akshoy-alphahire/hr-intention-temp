@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h2 className={styles.title}>Hello World!</h2>
-      <p>Dummy website for HR Intention</p>
+      <p className={styles.subTitle}>Dummy website for HR Intention</p>
     </main>
   )
 }
